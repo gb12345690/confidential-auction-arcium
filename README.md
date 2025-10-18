@@ -80,14 +80,14 @@ You must have the following tools installed:
 
 ---
 
-## 🤝 Authors
+## Authors
 
-| Role | Name / GitHub |
-| :--- | :--- |
-| **Smart Contract Developer** | [Ваше имя/никнейм] |
+Smart contract developer  
+[gb12345690](https://github.com/gb12345690)
+
 
 ---
 
 ## ⚖️ License
 
-This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**.
+This project is licensed under the **[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0))**.
